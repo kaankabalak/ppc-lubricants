@@ -99,7 +99,7 @@ div.content_large{
     width: 565px;
     height: 266px;
     margin-left: 10px;
-    background: linear-gradient(to right,rgb(116, 116, 114),black);
+    background: linear-gradient(to right,rgb(116, 116, 114),rgb(55, 55, 55));
     vertical-align: top;
     display: inline-block;
 }
